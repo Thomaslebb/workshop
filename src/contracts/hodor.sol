@@ -1,7 +1,7 @@
 pragma solidity ^0.4.0;
 
 /* 
-Simple contract that returns a greeting
+Simple contract that returns a greeting .
 */
 contract Hodor {
     address creator;
